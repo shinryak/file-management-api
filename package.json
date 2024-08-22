@@ -46,7 +46,8 @@
     "babel-plugin-inline-dotenv": "^1.7.0",
     "commitizen": "^4.3.0",
     "cz-conventional-changelog": "^3.3.0",
-    "standard-version": "^9.5.0"
+    "standard-version": "^9.5.0",
+    "nodemon": "^3.1.4"
   },
   "config": {
     "commitizen": {
